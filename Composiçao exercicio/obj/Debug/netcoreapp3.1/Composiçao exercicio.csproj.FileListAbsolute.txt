@@ -1,0 +1,14 @@
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.exe
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.deps.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.runtimeconfig.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.runtimeconfig.dev.json
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.dll
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\bin\Debug\netcoreapp3.1\Composiçao exercicio.pdb
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.csproj.AssemblyReference.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.AssemblyInfoInputs.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.AssemblyInfo.cs
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.dll
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.pdb
+C:\Users\DANILO\Desktop\Projetos\Progetos c#\OBJETOS\Composiçao exercicio\Composiçao exercicio\obj\Debug\netcoreapp3.1\Composiçao exercicio.genruntimeconfig.cache
